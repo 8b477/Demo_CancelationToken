@@ -9,7 +9,7 @@
 
 
         /// <summary>
-        /// Démo comment mettre en place la possibilité d'annulé une requête sur une méthode asynchrone
+        /// Démo comment mettre en place la possibilité d'annulé une requête sur une méthode asynchrone.
         /// </summary>
         /// <param name="cancel"></param>
         /// <returns></returns>
@@ -29,7 +29,7 @@
 
 
         /// <summary>
-        /// Démo comment mettre en place la possibilité d'annulé une requête sur une méthode synchrone
+        /// Démo comment mettre en place la possibilité d'annulé une requête sur une méthode synchrone.
         /// </summary>
         /// <param name="cancel"></param>
         /// <returns></returns>
